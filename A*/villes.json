@@ -1,0 +1,77 @@
+[
+  {
+    "name": "Lille",
+    "x": 4,
+    "y": 0
+  },
+  {
+    "name": "Paris",
+    "x": 4,
+    "y": 1
+  },
+  {
+    "name": "Strasbourg",
+    "x": 2,
+    "y": 7
+  },
+  {
+    "name": "Brest",
+    "x": 2,
+    "y": 0
+  },
+  {
+    "name": "Rennes",
+    "x": 2,
+    "y": 1
+  },
+  {
+    "name": "Nantes",
+    "x": 3,
+    "y": 1
+  },
+  {
+    "name": "Tours",
+    "x": 3,
+    "y": 3
+  },
+  {
+    "name": "La Rochelle",
+    "x": 4,
+    "y": 2
+  },
+  {
+    "name": "Clermont-Ferrand",
+    "x": 4,
+    "y": 4
+  },
+  {
+    "name": "Lyon",
+    "x": 4,
+    "y": 6
+  },
+  {
+    "name": "Bordeaux",
+    "x": 5,
+    "y": 2
+  },
+  {
+    "name": "Grenoble",
+    "x": 5,
+    "y": 6
+  },
+  {
+    "name": "Toulouse",
+    "x": 6,
+    "y": 3
+  },
+  {
+    "name": "Montpellier",
+    "x": 6,
+    "y": 5
+  },
+  {
+    "name": "Marseille",
+    "x": 6,
+    "y": 6
+  }
+]
