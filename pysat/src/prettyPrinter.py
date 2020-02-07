@@ -1,5 +1,5 @@
-from satutils import *
-from sattypes import *
+from .satutils import *
+from .sattypes import *
 
 
 def printTrail(solver):

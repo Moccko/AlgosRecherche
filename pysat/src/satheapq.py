@@ -4,7 +4,7 @@
     easily handled (implies tagging an element as removed and inserting a new one).
     '''
 
-from satutils import *
+from .satutils import *
 
 ''' A heap implementation of integers with support for decrease/increase key.'''
 

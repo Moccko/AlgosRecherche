@@ -1,5 +1,5 @@
 
-from satutils import *
+from .satutils import *
 
 # int representations of lits are what the solver reads (-1, +1, -2, +2, ...)
 # literals are an internal representation from 0..2n (0=1, 1=-1, 2=2, 3=-2, 4=3, 5=-3, ...)
