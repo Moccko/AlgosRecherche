@@ -28,3 +28,17 @@ That will create a grid and a temp grid for logs and once the program is done ru
 
 
 ## Travelling salesman problem using Ant Colonies
+I present this exercise as a iPython Notebook, it consists of 2 classes: `Salesman` and `Ants`. I chose to represent the map with an adjacence matrix for distances between cities identified by row and column index.
+
+`Salesman` takes all the hyperparameters and launches a solution search with a specified number of iterations. For each iteration, the class retrieves the roads taken by the ants and updates the pheromones on the roads.
+
+The `Ant` class manages the choices made by the ants and return the road they took during the iteration.
+
+While playing with the hyperparameters I noticed that they have an impact not only on the performance but also on the solution found. For instance, not enough iterations prevent the ants to be affected by the pheromones, 
+
+Be sure to install the dependencies before running the notebook.
+```bash
+conda install numpy
+conda install -c conda-forge ipywidgets
+jupyter nbextension enable --py widgetsnbextension
+```
